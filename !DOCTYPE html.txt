@@ -8,6 +8,7 @@
 </head>
 <body>
     <header>
+        <img src="https://images.unsplash.com/photo-1568872321544-10621a5b2995" alt="MA Strategic Logistics Logo" width="150">
         <h1>MA Strategic Logistics</h1>
         <nav>
             <ul>
@@ -23,15 +24,16 @@
     <section id="inicio">
         <h2>Bienvenido a MA Strategic Logistics</h2>
         <p>Soluciones rápidas y seguras en importación, exportación y courier.</p>
+        <img src="https://images.unsplash.com/photo-1529074963764-98f04a6f663a" alt="Logística en acción" width="600">
         <a href="#registro" class="btn">Crea tu Casillero</a>
     </section>
     
     <section id="servicios">
         <h2>Nuestros Servicios</h2>
         <ul>
-            <li>Importación y exportación de paquetes.</li>
-            <li>Compras en Amazon, eBay, Shein, Temu y más.</li>
-            <li>Envíos rápidos y seguros desde EE.UU.</li>
+            <li><img src="https://images.unsplash.com/photo-1592861956120-74f1f4fc7ffa" alt="Importación" width="50"> Importación y exportación de paquetes.</li>
+            <li><img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3" alt="Compras en línea" width="50"> Compras en Amazon, eBay, Shein, Temu y más.</li>
+            <li><img src="https://images.unsplash.com/photo-1593431302773-b57ba9c13626" alt="Envíos rápidos" width="50"> Envíos rápidos y seguros desde EE.UU.</li>
         </ul>
     </section>
     
@@ -54,7 +56,7 @@
         <h2>Contacto</h2>
         <p>Dirección: 5401 NW 72ND AVE, MIAMI, FL 33166</p>
         <p>Teléfono: 305 3645238</p>
-        <p>Email: info@mastrategiclogistics.com</p>
+        <p>Email: mastrategiclogistics1@hotmail.com</p>
     </section>
     
     <footer>
