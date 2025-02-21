@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MA Strategic Logistics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="MA Strategic Logistics Logo" width="150">
+        <h1>MA Strategic Logistics</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#registro">Registro de Casillero</a></li>
+                <li><a href="#tarifas">Tarifas</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="inicio">
+        <h2>Bienvenido a MA Strategic Logistics</h2>
+        <p>Soluciones rápidas y seguras en importación, exportación y courier.</p>
+        <img src="images/inicio.jpg" alt="Logística en acción" width="600">
+        <a href="#registro" class="btn">Crea tu Casillero</a>
+    </section>
+    
+    <section id="servicios">
+        <h2>Nuestros Servicios</h2>
+        <ul>
+            <li><img src="images/importacion.png" alt="Importación" width="50"> Importación y exportación de paquetes.</li>
+            <li><img src="images/compras.png" alt="Compras en línea" width="50"> Compras en Amazon, eBay, Shein, Temu y más.</li>
+            <li><img src="images/envios.png" alt="Envíos rápidos" width="50"> Envíos rápidos y seguros desde EE.UU.</li>
+        </ul>
+    </section>
+    
+    <section id="registro">
+        <h2>Regístrate y Obtén tu Casillero</h2>
+        <form>
+            <input type="text" placeholder="Nombre Completo" required>
+            <input type="email" placeholder="Correo Electrónico" required>
+            <input type="tel" placeholder="Teléfono" required>
+            <button type="submit">Registrarse</button>
+        </form>
+    </section>
+    
+    <section id="tarifas">
+        <h2>Nuestras Tarifas</h2>
+        <p>Consulta nuestras tarifas competitivas para el envío de tus paquetes.</p>
+    </section>
+    
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Dirección: 5401 NW 72ND AVE, MIAMI, FL 33166</p>
+        <p>Teléfono: 305 3645238</p>
+        <p>Email: info@mastrategiclogistics.com</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 MA Strategic Logistics. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
